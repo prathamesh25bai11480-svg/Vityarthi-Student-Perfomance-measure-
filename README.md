@@ -92,3 +92,4 @@ Internet usage
 
 The script/notebook already contains an example where a new student’s details are given to generate a predicted score.
 You only need to change the values and run the cell or line again.
+<img width="1051" height="602" alt="image" src="https://github.com/user-attachments/assets/48c28481-15a7-42ee-ae46-9b737001afb9" />
