@@ -52,7 +52,6 @@ How to Install and Run the Project
 
 2. Open a terminal or command prompt inside the project folder.
 
-
 3. Install the required packages:
 
 pip install scikit-learn pandas numpy matplotlib
