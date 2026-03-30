@@ -92,7 +92,3 @@ Internet usage
 
 The script/notebook already contains an example where a new student’s details are given to generate a predicted score.
 You only need to change the values and run the cell or line again.
-![alt text](<Screenshot (38).png>)
-![alt text](<Screenshot (39)-1.png>)
-![alt text](<Screenshot (40).png>)
-![alt text](<Screenshot (41).png>)
